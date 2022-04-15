@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "randomstoredemo",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
